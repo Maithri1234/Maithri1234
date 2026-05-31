@@ -54,43 +54,8 @@ I'm a passionate student diving deep into the world of **Artificial Intelligence
 
 <p align="center">
   <a href="[linkedin.com](https://www.linkedin.com/in/maithri-pittala-1909012a5)">
-    <img src="[img.shields.io](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/>
   </a>
-  <a href="[instagram.com](https://www.instagram.com/mythriii__21/)">
-    <img src="[img.shields.io](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instagram"/>
-  </a>
+  <a href="[instagram.com](https://www.instagram.com/mythriii__21/)"> </a>
   <a href="[maithri1234.github.io](https://maithri1234.github.io/Dynamic-Portfolio/)">
-    <img src="[img.shields.io](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)" alt="Portfolio"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=maithri1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" alt="GitHub Stats" height="170"/>
-  <img src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=maithri1234&layout=compact&theme=tokyonight&hide_border=true)" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="[github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=maithri1234&theme=tokyonight&hide_border=true)" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="[github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app/?username=maithri1234&theme=darkhub&no-frame=true&no-bg=false&margin-w=10&row=1)" alt="GitHub Trophies"/>
-</p>
-
----
-
-<p align="center">
-  <b>Let's connect and build something amazing together! 🚀</b>
-</p>
-
-<p align="center">
-  <img src="[capsule-render.vercel.app](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)"/>
 </p>
