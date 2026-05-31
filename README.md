@@ -54,8 +54,14 @@ I'm a passionate student diving deep into the world of **Artificial Intelligence
 
 <p align="center">
   <a href="[linkedin.com](https://www.linkedin.com/in/maithri-pittala-1909012a5)">
+    <img src="[img.shields.io](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/>
   </a>
-  <a href="[instagram.com](https://www.instagram.com/mythriii__21/)"> </a>
+  <a href="[instagram.com](https://www.instagram.com/mythriii__21/)">
+    <img src="[img.shields.io](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instagram"/>
+  </a>
   <a href="[maithri1234.github.io](https://maithri1234.github.io/Dynamic-Portfolio/)">
+    <img src="[img.shields.io](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)" alt="Portfolio"/>
   </a>
 </p>
+
+---
